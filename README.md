@@ -1,64 +1,18 @@
-# About Me
-================
+<h1 align="center">Hi 👋, I'm Abhyuday Srivastava</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-Hi, I'm Abhyuday Srivastava, a beginner coder with a passion for building innovative solutions. I'm excited to share my projects and experiences with the GitHub community.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucifer-abhi&label=Profile%20views&color=0e75b6&style=flat" alt="lucifer-abhi" /> </p>
 
-**Skills**
-------------
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucifer-abhi" alt="lucifer-abhi" /></a> </p>
 
-### Programming Languages
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/c/@vloglearnerhubyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@vloglearnerhubyt" height="30" width="40" /></a>
+</p>
 
-* C
-* C++
-* Python
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### Web Development
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucifer-abhi&show_icons=true&locale=en&layout=compact" alt="lucifer-abhi" /></p>
 
-* HTML
-* CSS
-* JavaScript
-* Django (Python Framework)
-
-**Projects**
-------------
-
-Coming soon! I'm working on some exciting projects that I'll be sharing here soon. Stay tuned!
-
-**About this Profile**
----------------------
-
-This profile is a collection of my projects, experiments, and learning experiences as a beginner coder. I'm always looking to improve and learn from others, so feel free to reach out or contribute to my projects.
-
-**Get in Touch**
-----------------
-
-/** Email: [your email]
-* LinkedIn: [your LinkedIn profile]
-* Twitter: [your Twitter handle]*/
-
-**Profile Image**
------------------
-
-![Profile Image](https://avatars.githubusercontent.com/u/your-github-username?v=4)
-
-**Badges**
-----------
-
-[![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/your-github-username?tab=repositories&q=&type=&language=c)
-[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/your-github-username?tab=repositories&q=&type=&language=python)
-[![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/your-github-username?tab=repositories&q=&type=&language=python)
-
-**Styles**
-----------
-
-This README uses a combination of Markdown and HTML to create a visually appealing profile. The styles used are:
-
-* Font: Open Sans
-* Colors: #333, #666, #999
-* Icons: Font Awesome
-
-Feel free to customize this README to fit your personal brand and style!
-
-Replace the placeholders with your own information, and don't hesitate to ask if you need any further assistance.
-
-Would you like me to elaborate on any part of this README or provide more customization options?
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucifer-abhi&show_icons=true&locale=en" alt="lucifer-abhi" /></p>
